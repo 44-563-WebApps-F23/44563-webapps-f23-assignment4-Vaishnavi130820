@@ -85,4 +85,29 @@
     background-color: lightblue;
     color: red;
   }
+  .bonus {
+    margin-right: 20px;
+    list-style-type: none;
+    margin: 10px;
+    padding: 10px;
+    overflow: hidden;
+    
+    
   
+  }
+  .bonus li {
+    float:left;
+    color: lightgrey;
+    
+    background-color: lightpink;
+  }
+  
+  .bonus ul{
+  
+    list-style-type: none;
+  }
+  
+  .bonus a{
+    display: inline-block;
+    padding: 10px 20px;
+  }
